@@ -20,3 +20,35 @@ Leyes de Kirchhoff
 
 
 
+
+
+
+
+
+4.	RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
+
+
+
+
+
+
+
+
+
+5.	VIDEO
+
+
+6.	CONCLUSIONES
+
+•	Los valores de corriente y voltaje determinados por leyes de Kirchhoff son muy aproximados a los valores experimentales, con errores menores al 10 % en su mayoría. 
+•	La primera ley de Kirchhoff es válida: en un nodo, la suma de corrientes entrantes es igual a la suma de corrientes salientes. Con los valores experimentales, estas sumas son casi iguales. 
+•	La segunda ley de Kirchhoff también es cierta: en una malla, la suma algebraica de voltajes es igual a cero. Con los valores hallados experimentalmente, la suma es prácticamente cero.
+
+7.	BIBLIOGRAFIA
+
+Fernández, Tomás y Tamaro, Elena. (2021, 12 de noviembre).Biografia de Gustav Kirchhoff. En Biografías y Vidas. De la página web: https://www.biografiasyvidas.com/biografia/k/kirchhoff.htm
+
+MecatrónicaLATAM.(2021, 12 de noviembre).Leyes de Kirchhoff. De la página web: https://www.mecatronicalatam.com/es/tutoriales/teoria/leyes-de-kirchhoff/
+
+
+
