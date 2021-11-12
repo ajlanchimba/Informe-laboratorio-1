@@ -17,23 +17,14 @@ Leyes de Kirchhoff
 
 3. EXPLICACION DEL PROCEDIMIENTO
 
-
-
-
-
-
-
-
+![lab1 ](https://user-images.githubusercontent.com/93209004/141535825-95279f0f-4d04-4a99-826d-75d490b67226.png)
+![lab1 2](https://user-images.githubusercontent.com/93209004/141535829-690cfe66-7e33-4d54-802b-849a45859bac.png)
+![lab1 3](https://user-images.githubusercontent.com/93209004/141535837-db17a515-b1c0-458c-99c7-b93fe1360948.png)
 
 4.	RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
-
-
-
-
-
-
-
+![lab1 4](https://user-images.githubusercontent.com/93209004/141535877-e797270f-fb20-4c94-926e-6bc8b680e4b9.png)
+![lab1 5](https://user-images.githubusercontent.com/93209004/141535886-44ab6111-495b-4a04-8532-b006e3dc1624.png)
 
 5.	VIDEO
 
