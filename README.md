@@ -27,7 +27,7 @@ Leyes de Kirchhoff
 ![lab1 5](https://user-images.githubusercontent.com/93209004/141535886-44ab6111-495b-4a04-8532-b006e3dc1624.png)
 
 5.	VIDEO
-
+https://youtu.be/aUnk7khgnPQ
 
 6.	CONCLUSIONES
 
